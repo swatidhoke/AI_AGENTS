@@ -81,6 +81,8 @@ OPENAI_API_KEY=sk-your-openai-key
 ```bash
 streamlit run SkillScout.py
 ```
+<img width="1440" height="692" alt="Screenshot 2026-03-08 at 10 12 43 AM" src="https://github.com/user-attachments/assets/7ce8a97b-173a-4c92-9441-74fea5b950ff" />
+<img width="796" height="701" alt="Screenshot 2026-03-08 at 10 17 53 AM" src="https://github.com/user-attachments/assets/1e9b48de-d1d9-4cef-8881-4259c9c2fdf6" />
 
 ---
 
